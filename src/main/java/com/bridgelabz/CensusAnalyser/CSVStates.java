@@ -1,3 +1,13 @@
+/**
+ * ****************************************************************************
+ * Purpose: This is a POJO for State CSV file.
+ *
+ * @author Syeda Naziya
+ * @version 1.0
+ * @since 30-06-2021
+ * ****************************************************************************
+ */
+
 package com.bridgelabz.CensusAnalyser;
 
 import com.opencsv.bean.CsvBindByName;

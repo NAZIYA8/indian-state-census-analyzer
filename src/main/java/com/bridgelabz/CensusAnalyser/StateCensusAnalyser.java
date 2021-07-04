@@ -65,6 +65,12 @@ public class StateCensusAnalyser {
 		}
 	}
 	
+	/**
+	 * This method is used to load state data by passing the file path.
+	 * 
+	 * @param csvfilePath is the path of CSV files
+	 * @throws CensusAnalyserException
+	 */
 	public int loadIndianStateData(String csvfilePath) throws CensusAnalyserException {
 		try {	
 			Reader reader;
