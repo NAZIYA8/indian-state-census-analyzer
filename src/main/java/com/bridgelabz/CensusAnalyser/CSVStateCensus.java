@@ -1,6 +1,6 @@
 /**
  * ****************************************************************************
- * Purpose: This is a pojo for State Census csv file.
+ * Purpose: This is a POJO for State Census CSV file.
  *
  * @author Syeda Naziya
  * @version 1.0
